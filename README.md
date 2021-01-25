@@ -1,5 +1,5 @@
 # ExtensoData_Intern
-All the files related to the Internship Program in the Extenso Data Company in different branches according to categories displayed below:
+All the files related to the Internship Program in the Extenso Data Company are in different branches according to categories displayed below:
 1. data
    a. ShellScript
    b. MySql Queries (Corresponding queries for the task done in Pentaho)
